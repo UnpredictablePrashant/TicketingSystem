@@ -1,0 +1,61 @@
+<mxfile host="Electron" modified="2024-07-17T13:12:00.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="-OHZ5TE-3fOh4RL_aSyN" version="23.0.2" type="device">
+  <diagram name="Page-1" id="u2XrLjINX9OjQHv0OC1X">
+    <mxGraphModel dx="880" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oQ8yqz9myLviCMoYWiWA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-1" value="User Logs in" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oQ8yqz9myLviCMoYWiWA-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dashboard&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Status of ticket&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Create ticket&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oQ8yqz9myLviCMoYWiWA-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-5" value="Create Ticket&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Subject of Ticket&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Type of ticket&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Complete Ticket&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Upload Picture (if any)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oQ8yqz9myLviCMoYWiWA-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-7" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ticket is assigned to an available agent at L1. If no agent then agent assignment will be in pending and will be in the Queue.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="231" width="215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oQ8yqz9myLviCMoYWiWA-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-9" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Once agent assignment has been done. Then the chat between the agent and user starts.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="151" y="233" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oQ8yqz9myLviCMoYWiWA-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-12" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;If agent at&amp;nbsp; L1 cannot solve then it will escalate to L2 and then to L3. And more specialized agent at that level will be assigned.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="151" y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ8yqz9myLviCMoYWiWA-13" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Finally the Ticket will be resolved and user feedback will be taken.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="360" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
